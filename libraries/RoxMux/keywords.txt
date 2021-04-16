@@ -1,0 +1,94 @@
+####################################################
+# Syntax Coloring Map
+####################################################
+
+Rox74HC165	KEYWORD1
+Rox74HC595	KEYWORD1
+Rox74HC4067	KEYWORD1
+Rox74HC4051	KEYWORD1
+RoxMCP23017	KEYWORD1
+RoxMCP23018	KEYWORD1
+RoxDual74HC165	KEYWORD1
+RoxButton	KEYWORD1
+RoxEncoder	KEYWORD1
+RoxPot	KEYWORD1
+RoxLed	KEYWORD1
+RoxLedMeter	KEYWORD1
+RoxFlags	KEYWORD1
+RoxTimer	KEYWORD1
+RoxMicroTimer	KEYWORD1
+RoxEndlessTimer	KEYWORD1
+RoxMicroEndless	KEYWORD1
+RoxScroller	KEYWORD1
+RoxLatchingRelay	KEYWORD1
+RoxNonLatchingRelay	KEYWORD1
+RoxMidiClock	KEYWORD1
+RoxMidiActiveSense	KEYWORD1
+
+
+begin	KEYWORD2
+update	KEYWORD2
+read	KEYWORD2
+readPin	KEYWORD2
+readPins	KEYWORD2
+writePins	KEYWORD2
+writePin	KEYWORD2
+setSignalPin	KEYWORD2
+allOn	KEYWORD2
+allOff	KEYWORD2
+setBrightness	KEYWORD2
+increased	KEYWORD2
+decreased	KEYWORD2
+clockwise	KEYWORD2
+counterClockwise	KEYWORD2
+onUpdate	KEYWORD2
+setValue	KEYWORD2
+latched	KEYWORD2
+unlatched	KEYWORD2
+
+on	KEYWORD2
+off	KEYWORD2
+toggle	KEYWORD2
+set	KEYWORD2
+reset	KEYWORD2
+
+complete	KEYWORD2
+reached	KEYWORD2
+expired	KEYWORD2
+start	KEYWORD2
+active	KEYWORD2
+end	KEYWORD2
+stop	KEYWORD2
+trigger	KEYWORD2
+
+ledControl	KEYWORD2
+
+up	KEYWORD2
+down	KEYWORD2
+upAccurate	KEYWORD2
+downAccurate	KEYWORD2
+
+onMasterTickCallback	KEYWORD2
+onTempoChangeCallback	KEYWORD2
+onBeatCallback	KEYWORD2
+setMasterBpm	KEYWORD2
+getBpm	KEYWORD2
+tick	KEYWORD2
+tap	KEYWORD2
+onMasterTickCallback	KEYWORD2
+onStateChangeCallback	KEYWORD2
+isMaster	KEYWORD2
+isSlave	KEYWORD2
+setAsMaster	KEYWORD2
+setAsSlave	KEYWORD2
+toggleMode	KEYWORD2
+setMode	KEYWORD2
+
+ROX_DEBUG	LITERAL1
+ROX_PRINTLN	LITERAL1
+
+ROX_RESET	LITERAL1
+ROX_SET	LITERAL1
+ROX_DEFAULT	LITERAL1
+ROX_BLINK	LITERAL1
+ROX_PULSE	LITERAL1
